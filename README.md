@@ -25,4 +25,4 @@
 ### Lanzar el repo en MyBinder
 Si por alguna razón tu instalación de Python Miniconda o Jupyter-Lab no están funcionando, entonces puedes dar click en el siguiente icono para lanzar una versión web de Jupyter-Lab y trabajar de forma temporal.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/TECP0013ADDAOL2103/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/B1-Procesamiento-de-Datos-con-Python-RT/master)
