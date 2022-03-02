@@ -11,6 +11,18 @@
 
 ---
 
+<ins>Paquetes en Python</ins>
+
+Los **Paquetes** en Python es una de las grandes fortalezas de Python ya que hay una cantidad muy grande y cada Paquete ayuda a resolver de forma práctica un tipo de problema.
+
+Muchos parquetes o librerías son mantenidas por la Fundación de Software de Python, la mayoría son mantenidos por la comunidad como en caso de NumPy, Matplotlib o Pandas.
+
+Veamos cómo usarlos.
+
+[**`Ejemplo 1`**](01E-paquetes.ipynb)
+
+---
+
 <ins>Series de Pandas</ins>
 
 Las `Series` son una de las dos estructuras de datos que ofrece `pandas` que nos hacen la vida mucho más fácil como científicos de datos.
@@ -21,7 +33,7 @@ Las `Series` son una especie de híbrido entre `listas` y `diccionarios`.
 
 Vamos a ver cómo funcionan.
 
-[**`Ejemplo y reto 2`**](Ejemplo-02/series.ipynb)
+[**`Ejemplo y reto 2`**](02ER-series.ipynb)
 
 ---
 
@@ -37,7 +49,7 @@ Veamos cómo funcionan.
 
 > 
 
-[**`Ejemplo y reto 3`**](Ejemplo-03/dataframes.ipynb)
+[**`Ejemplo y reto 3`**](03ER-dataframes.ipynb)
 
 ---
 
@@ -47,7 +59,7 @@ Podemos agregar, reasignar y eliminar columnas de nuestros `DataFrames`. La sint
 
 > 
 
-[**`Ejemplo y reto 4`**](Ejemplo-04/manipulacion_de_columnas.ipynb)
+[**`Ejemplo y reto 4`**](04ER-manipulacion_de_columnas.ipynb)
 
 ---
 
@@ -68,7 +80,7 @@ Vamos a aprender a leer archivos JSON y a convertirlos en `DataFrames`.
 
 > Lectura de CSVs y adquisición de datos por medio de APIs y Bases de Datos se estudian más adelante en el módulo.
 
-[**`Ejemplo y reto 5`**](Ejemplo-05/lectura_de_json.ipynb)
+[**`Ejemplo y reto 5`**](05ER-lectura_de_json.ipynb)
 
 ---
 
@@ -80,10 +92,10 @@ Vamos a ver algunas herramientas básicas que tienen los `DataFrames` para explo
 
 > Por ahora estamos haciendo una exploración muy básica. Lo que importa es que el alumno entienda los principios básicos de cómo crear `DataFrames` a partir de conjuntos de datos existentes. En la sesión que sigue se verá Análisis Exploratorio a más profundidad.
 
-[**`Ejemplo y reto 6`**](Ejemplo-06/aed.ipynb)
+[**`Ejemplo y reto 6`**](06ER-aed.ipynb)
 
 ---
 
 ### 3. Postwork
 
-[**`Postwork Sesión 4`**](Postwork/Readme.md)
+[**`Postwork Sesión 4`**](07A-Postwork.md)

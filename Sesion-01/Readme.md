@@ -30,8 +30,8 @@ Desktop $ git clone link-al-repo
 ...
 ...
 
-Desktop $ cd TECP0013ADDAOL2103
-Desktop/TECP0013ADDAOL2103 $
+Desktop $ cd Procesamiento-de-datos-con-Python-RT
+Desktop/Procesamiento-de-datos-con-Python-RT $
 ```
 Y al final nos cambiamos a esta carpeta que será nuestra carpeta de trabajo.
 
@@ -207,8 +207,8 @@ Esperar unos minutos, se veran pasar varios mensajes indicando que el proceso de
 Ahora para ejecutar Jupyter Lab en la misma **Terminal** (Anaconda Prompt en Windows) hay que cambiarse o moverse a la carpeta de trabajo y entonces ejecutar el comando `jupyter-lab`, a continuación un ejemplo de su ejecución:
 
 ```console
-$ cd Desktop/TECP0013ADDAOL2103
-Desktop/TECP0013ADDAOL2103 $ jupyter-lab
+$ cd Desktop/Procesamiento-de-datos-conPython-RT
+Desktop/Procesamiento-de-datos-conPython-RT $ jupyter-lab
 [I 2021-06-16 16:22:21.259 ServerApp] jupyterlab | extension was successfully linked.
 [W 2021-06-16 16:22:21.263 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
 [I 2021-06-16 16:22:21.444 ServerApp] jupyterlab_github | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
@@ -233,7 +233,7 @@ Después el último comando Jupyter-Lab se abre en el navegador y ya está listo
 
 Ya hablamos sobre Jupyter Notebooks en el Prework. Vamos a hacer un pequeño repaso para que quede claro cómo aprovechar al máximo este REPL.
 
-[**`Ejemplo 1`**](Ejemplo-01/notebook_de_practica.ipynb)
+[**`Ejemplo 1`**](01E-notebook_de_practica.ipynb)
 
 ---
 
@@ -249,7 +249,7 @@ En Python usamos `variables` para asignarles contenido que queremos utilizar des
 
 > Me parece muy importante hablar sobre la convención de nombramiento en Python: todas las variables y nombres de funciones se escriben en camel_case, sin excepciones. No es necesario mencionar la convención para clases en este momento, ya que ese tema no se tocará en este módulo.
 
-[**`Ejemplo y Reto 2`**](Ejemplo-02/variables.ipynb)
+[**`Ejemplo y Reto 2`**](02ER-variables.ipynb)
 
 ---
 
@@ -269,7 +269,7 @@ Hemos estado asignando números a variables. En Python podemos realizar operacio
 
 > En el Ejemplo se va a usar la función `print`. No es necesario ahondar mucho en el tema, pero sí hay que mencionar la sintaxis básica de cómo llamar estas funciones.
 
-[**`Ejemplo y Reto 3`**](Ejemplo-03/operaciones_numericas.ipynb)
+[**`Ejemplo y Reto 3`**](03ER-operaciones_numericas.ipynb)
 
 ---
 
@@ -286,7 +286,7 @@ Por el momento no importa si no entiendes para qué sirven las strings y los boo
 
 > Explicar por qué necesitamos diferentes tipos de datos, por qué a Python no le da igual leer un "1" que un 1. En el Ejemplo se va a usar la función `type` Hay que explicar cómo funciona llamar una función y pasarle el resultado a otra función.
 
-[**`Ejemplo 4`**](Ejemplo-04/tipos_de_datos.ipynb)
+[**`Ejemplo 4`**](04E-tipos_de_datos.ipynb)
 
 ---
 
@@ -300,7 +300,7 @@ Vamos a ver cómo hacer eso.
 
 > Elegí f-strings por sobre las otras formas de interpolar strings porque son las más modernas y su sintaxis se parece mucho a la sintaxis de interpolación de otros lenguajes de programación (como JS y Swift).
 
-[**`Ejemplo y Reto 5`**](Ejemplo-05/interpolacion_de_strings.ipynb)
+[**`Ejemplo y Reto 5`**](05ER-interpolacion_de_strings.ipynb)
 
 ---
 
@@ -323,7 +323,7 @@ Veamos cómo funcionan.
 
 > Creo que es muy útil hacer esta referencia de las decisiones que tomamos en la vida real. ¿Cómo es que funciona la inteligencia humana? Y ¿cómo es que los programas emulan esta inteligencia para variar su output dependiendo del input que reciban?
 
-[**`Ejemplo y Reto 6`**](Ejemplo-06/operadores_de_comparacion.ipynb)
+[**`Ejemplo y Reto 6`**](06ER-operadores_de_comparacion.ipynb)
 
 ---
 
@@ -342,10 +342,10 @@ Vamos a ver cómo funcionan.
 
 > Lo más importante de aclarar me parece que es la indentación de los bloques de las sentencias if. Se habló sobre ello en el Prework, pero es algo que puede ser confuso. Hay que mencionarlo repetidas veces para que los alumnos entiendan que lo que está indentado pertenece al bloque del if, y lo que no está indentando ya no pertenece.
 
-[**`Ejemplo y Reto 7`**](Ejemplo-07/estructuras_de_control_de_flujo.ipynb)
+[**`Ejemplo y Reto 7`**](07ER-estructuras_de_control_de_flujo.ipynb)
 
 ---
 
 ### 3. Postwork
 
-[**`Postwork Sesión 1`**](Postwork/Readme.md)
+[**`Postwork Sesión 1`**](08A-Postwork.md)

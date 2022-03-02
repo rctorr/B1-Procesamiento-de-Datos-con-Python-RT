@@ -35,7 +35,7 @@ Veamos cómo funciona.
 
 > Es importante que los alumnos entiendan el concepto de aplicar una función "elemento por elemento" ("element-wise") a una `lista`, ya que en esencia eso es lo que sucede cuando aplicamos funciones universales o vectorizadas a un `numpy.array` o a una `Serie` de `pandas`.
 
-[**`Ejemplo y reto  1`**](Ejemplo-01/map.ipynb)
+[**`Ejemplo y reto  1`**](01ER-map.ipynb)
 
 ---
 
@@ -51,7 +51,7 @@ Veamos a detalle cómo funciona.
 
 > `filter` nos permitirá tener un primer acercamiento a los filtros, así como también a los `operadores lógicos` que aparecerán innumerables veces en los filtros de `pandas`.
 
-[**`Ejemplo y rato 2`**](Ejemplo-02/filter.ipynb)
+[**`Ejemplo y rato 2`**](02ER-filter.ipynb)
 
 ---
 
@@ -59,7 +59,7 @@ Veamos a detalle cómo funciona.
 
 Hasta ahora sólo hemos utilizado `filter` con una función (una sola condición) para filtrar nuestra lista. ¿Pero qué pasa si queremos usar múltiples condiciones? Aquí es donde entran los `operadores lógicos`, que nos permiten unir dos `sentencias de comparación`. Vayamos ahora a revisar algunos ejemplos.
 
-[**`Ejemplo y reto 3`**](Ejemplo-03/and.ipynb)
+[**`Ejemplo y reto 3`**](03ER-and_or_not.ipynb)
 
 ---
 
@@ -67,10 +67,10 @@ Hasta ahora sólo hemos utilizado `filter` con una función (una sola condición
 
 Las funciones `lambda` son simplemente una manera distinta de declarar nuestras funciones. Tienen el mismo comportamiento de una función, pero una sintaxis y capacidades simplificadas. Veámoslas en funcionamiento.
 
-[**`Ejemplo y reto 4`**](Ejemplo-04/lambda.ipynb)
+[**`Ejemplo y reto 4`**](04ER-lambda.ipynb)
 
 ---
 
 ### 3. Postwork
 
-[**`Postwork Sesión 3`**](Postwork/Readme.md)
+[**`Postwork Sesión 3`**](05A-Postwork.md)
